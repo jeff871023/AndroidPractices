@@ -1,2 +1,2 @@
-include ':app', ':hellotoast'
+include ':app', ':hellotoast', ':hello_toast2'
 rootProject.name='My_Application'
